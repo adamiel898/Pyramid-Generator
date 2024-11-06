@@ -5,7 +5,9 @@ I made this program trought the freecodecamp platform, and this is my first Java
 
 
 Output examples:  
-When inverted is true:
+
+```
+When inverted is true
 ###############
  ############# 
   ###########  
@@ -27,3 +29,5 @@ When inverted is false:
   ###########  
  ############# 
 ###############
+
+```
